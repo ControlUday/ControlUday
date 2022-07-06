@@ -13,7 +13,8 @@
 </a>
 <a href="https://github.com/shauryakohli?tab=followers"><img src="https://img.shields.io/github/followers/shauryakohli?label=Followers&style=social" alt="GitHub Badge"></a>
 
-- 🌱 I’m currently trying to learn lots of things in the domain of IT, Computer Science and Technology
+- 🌱 I’m currently trying to learn lots of things in the domain of Computer Science
+and Information Technology
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Enhance my programming skills and my knowledge about technology. 
 - ⚡ Fun fact: I love listening to music, watch netflix and drive cars. 
@@ -34,7 +35,6 @@
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -49,10 +49,8 @@
   <a href="mailto:udaysehgal22@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Uday| Gmail" width="40px" >
   </a>
-  <a href="https://www.hackerrank.com/shauryakohli007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" target="blank" alt="Shaurya|Hackkerank" width="40px" /></a>
-  <a href="https://leetcode.com/shauryakohli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" target="blank" alt="Shaurya|Leetcode" width="40px" /></a>
-    <a href="https://www.instagram.com/shauryakohli11/" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Shaurya | Instagram" width="40px" >
+    <a href="https://www.instagram.com/udaysehgal_22/" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Uday | Instagram" width="40px" >
   </a>
   <a href="https://discordapp.com/users/1651" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" target="blank" alt="Shaurya|Discord"  width="40px" /></a>
   <br/>
