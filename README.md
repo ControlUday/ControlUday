@@ -16,7 +16,7 @@ and Information Technology
 - 🥅 2022 Goals: Enhance my programming skills and my knowledge about technology. 
 - ⚡ Fun fact: I love listening to music, watch netflix and drive cars. 
 ---
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Control Uday&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Uday Sehgal" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ControlUday&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Uday Sehgal" /></a></p>
 
 ---
 
