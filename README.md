@@ -1,6 +1,6 @@
 ## Hi I am Uday Sehgal. I'm a Final Year CSE Student from Amity Noida.
 
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
+<img align="right" alt="GIF" height="275px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
 
 ## Views and Followers
 
