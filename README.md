@@ -1,6 +1,6 @@
 ## Hi I am Uday Sehgal. I'm a Final Year CSE Student from Amity Noida.
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
+<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
 
 ## Views and Followers
 
@@ -53,7 +53,6 @@ and Information Technology
 ### My Github Stats
  <a href="https://github.com/ControlUday-readme-stats"><img alt="Uday Sehgal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ControlUday&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/ControlUday-readme-stats"><img alt="Uday Sehgal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ControlUday&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <br>
   <b>Note:</b> Most Used Languages is only a metric of the languages my public Github code consists of and doesn't reflect skill level.
 <br>
  <h3><b>Productivity Stats</h3></p>
