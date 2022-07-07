@@ -55,6 +55,7 @@ and Information Technology
 <a href="https://github.com/ControlUday-readme-stats"><img alt="Uday Sehgal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ControlUday&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <b>Note:</b> Most Used Languages is only a metric of the languages my public Github code consists of and doesn't reflect skill level.
 <br>
+<br>
  <h3><b>Productivity Stats</h3></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=ControlUday&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
 
