@@ -1,6 +1,3 @@
-
-<h1 align="center"><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="25px"></h1>
-
 ## Hi I am Uday Sehgal. I'm a Final Year CSE Student from Amity Noida.
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
