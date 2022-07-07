@@ -8,7 +8,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ControlUday">
 </a>
-<a href="https://https://github.com/ControlUday?tab=followers"><img src="https://img.shields.io/github/followers/shauryakohli?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://https://github.com/ControlUday?tab=followers"><img src="https://img.shields.io/github/followers/ControlUday?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - 🌱 I’m currently trying to learn lots of things in the domain of Computer Science
 and Information Technology
