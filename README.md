@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="25px"></h1>
 
 ## Hi I am Uday Sehgal. I'm a Final Year CSE Student from Amity Noida.
 
@@ -11,7 +11,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ControlUday">
 </a>
-<a href="https://github.com/shauryakohli?tab=followers"><img src="https://img.shields.io/github/followers/shauryakohli?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://https://github.com/ControlUday?tab=followers"><img src="https://img.shields.io/github/followers/shauryakohli?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - 🌱 I’m currently trying to learn lots of things in the domain of Computer Science
 and Information Technology
