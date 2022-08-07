@@ -49,6 +49,8 @@ and Information Technology
     <a href="https://www.instagram.com/udaysehgal_22/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Uday | Instagram" width="40px" >
   </a>
+  <a href="live:.cid.c6cd1c41382d7ee2/" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/skype.svg" target="_blank"  alt="Uday | Skype" width="40px" >
 
 ### My Github Stats
  <a href="https://github.com/ControlUday-readme-stats"><img alt="Uday Sehgal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ControlUday&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
